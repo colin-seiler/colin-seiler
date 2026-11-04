@@ -1,6 +1,6 @@
 ## Colin Seiler
 
-I'm a data scientist finishing my **M.S. in Data Science at the University at Buffalo**, graduating Dec 2026, with a B.A. in Applied Mathematics I also worked as a **Data Scientist Intern @ Halliburton** this past Summer and am currently a **Graduate Research Assistant at The University at Buffalo**.
+I'm a data scientist finishing my **M.S. in Data Science at the University at Buffalo**, graduating Dec 2026, with a B.A. in Applied Mathematics. I worked as a **Data Scientist Intern @ Halliburton** this past Summer and am currently a **Graduate Research Assistant at The University at Buffalo**.
 
 I am Looking for **full-time data scientist roles** starting early 2027
 
